@@ -6,7 +6,7 @@ set(CMAKE_CXX_STANDARD_REQUIRED ON)
 
 #include_directories(./includes)
 
-add_executable(lab02
+add_executable(lab03
     ./src/main.cpp
-    ./src/vecotor.cpp
+    ./src/vector.cpp
 )

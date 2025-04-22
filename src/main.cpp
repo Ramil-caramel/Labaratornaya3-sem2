@@ -1,5 +1,5 @@
 #include <iostream>
-#include "vecotor.cpp"
+#include "vector.cpp"
 
 int main(){
     std::cout << "static polimorfizm" << std::endl;
